@@ -1,0 +1,41 @@
+.contenedor {
+    height: 100vh;
+    width: 100%;
+    background-image: url(Imagen\ de\ WhatsApp\ 2024-07-16\ a\ las\ 02.27.05_e06763fc.jpg);
+    background-size: cover;
+    display: flex;
+    border: solid green;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.caja-izquierda {
+    background-color: rgb(16, 69, 100);
+    width: 20%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.caja-derecha {
+    background-color: rgb(16, 69, 100);
+    width: 20%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.ocultar {
+    visibility: hidden;
+}
+
+
+
