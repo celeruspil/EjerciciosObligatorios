@@ -4,7 +4,7 @@
     background-image: url(Imagen\ de\ WhatsApp\ 2024-07-16\ a\ las\ 02.27.05_e06763fc.jpg);
     background-size: cover;
     display: flex;
-    border: solid green;
+    border: solid rgb(29, 232, 29);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -36,6 +36,9 @@
 .ocultar {
     visibility: hidden;
 }
+
+
+
 
 
 
